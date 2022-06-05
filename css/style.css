@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, p, span, a, label
 .img_article
 {
   width: 50%;
-  height: auto;
+  max-height: 300px;
 }
 
 .p50
